@@ -1,0 +1,45 @@
+.child{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display:block;
+}
+
+
+.parent{
+    display:flex;
+    flex-direction: row;
+    justify-content: left;
+    flex-wrap: wrap;
+    width: 700px;
+    
+}
+
+
+
+
+.child1{
+
+    margin:10px 30px 0 20px;
+    background-color: red;
+
+}
+
+.child2{
+
+    margin:60px 30px 0 20px;
+    background-color: royalblue;
+}
+
+.child3{
+
+    margin:20px 30px 0 30px;
+    background-color: silver;
+}
+
+.child4{
+
+    margin: 10px 60px 0 20px;
+    background-color: teal;
+}
+
