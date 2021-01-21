@@ -1,0 +1,1 @@
+console.log("Mijn naam is kaj en dit is mijn eerste console")

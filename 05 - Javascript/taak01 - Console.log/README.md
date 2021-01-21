@@ -23,3 +23,4 @@ console.log("Een kleine test");
 ### Resultaat
 
 ![Resultaat](images/resultaat.png)
+
